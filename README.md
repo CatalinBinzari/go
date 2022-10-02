@@ -1,2 +1,2 @@
 # go
-add 3 linked lists by elements
+add 2 linked lists by elements
